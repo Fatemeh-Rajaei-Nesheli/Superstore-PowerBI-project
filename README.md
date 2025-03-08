@@ -27,7 +27,7 @@ This dashboard goes beyond static reporting by leveraging interactive elements t
 ## Dashboard Screenshot
 To get a quick preview of the dashboard, see the image below:
 
-![Superstore Sales Dashboard](dashboard_screenshot.png)
+![Superstore Sales Dashboard](dashboard_screenshot.GIF)
 
 ## Key Insights
 This project illustrates how **Power BI can transform raw data into actionable insights**. Through effective storytelling, it highlights:
